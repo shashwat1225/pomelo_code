@@ -1,5 +1,5 @@
 {
-    "creditLimit": 1000,
+    "accountId": 1, //can be changed but the account will need to be registered by admin first. Credit limit fixed to 1000 
     "events": [
         {
             "eventType": "TXN_AUTHED",
@@ -11,7 +11,7 @@
 }
 
 {
-    "creditLimit": 1000,
+    "accountId": 1, //can be changed but the account will need to be registered by admin first. Credit limit fixed to 1000 
     "events": [
         {
             "eventType": "TXN_AUTHED",
@@ -28,7 +28,7 @@
 }
 
 {
-    "creditLimit": 1000,
+    "accountId": 1, //can be changed but the account will need to be registered by admin first. Credit limit fixed to 1000 
     "events": [
         {
             "eventType": "TXN_AUTHED",
@@ -46,7 +46,7 @@
 }
 
 {
-    "creditLimit": 1000,
+    "accountId": 1, //can be changed but the account will need to be registered by admin first. Credit limit fixed to 1000 
     "events": [
         {
             "eventType": "TXN_AUTHED",
@@ -70,7 +70,7 @@
 }
 
 {
-    "creditLimit": 1000,
+    "accountId": 1, //can be changed but the account will need to be registered by admin first. Credit limit fixed to 1000 
     "events": [ 
         {
             "eventType": "TXN_AUTHED",
@@ -99,7 +99,7 @@
 }
 
 {
-    "creditLimit": 1000,
+    "accountId": 1, //can be changed but the account will need to be registered by admin first. Credit limit fixed to 1000 
     "events": [ 
         {
             "eventType": "TXN_AUTHED",
