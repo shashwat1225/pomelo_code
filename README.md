@@ -11,11 +11,18 @@ git clone https://github.com/shashwat1225/pomelo_code.git
 ```
 
 
-# Requirements
+## Requirements
 
-This project requires the following tools and libraries. You can install them using the command:
+This project requires django tools and libraries. You can install them using the command:
 
 ```
 pip install -r requirements.txt
 ```
 
+## Usage
+
+To run the server live locally, use the command:
+
+```
+python manage.py runserver
+```
