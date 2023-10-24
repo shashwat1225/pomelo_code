@@ -13,6 +13,12 @@ git clone https://github.com/shashwat1225/pomelo_code.git
 
 ## Requirements
 
+This project requires django tools and libraries. You can install them using the command:
+
+```
+pip install -r requirements.txt
+```
+
 Create a virtual environment:
 
 ```
@@ -33,11 +39,6 @@ Windows
 your-env-name\Scripts\activate
 ```
 
-Now, this project requires django tools and libraries. You can install them using the command:
-
-```
-pip install -r requirements.txt
-```
 
 ## Usage
 
