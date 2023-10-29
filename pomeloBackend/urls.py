@@ -23,4 +23,8 @@ urlpatterns = [
      # Replace 'home' with the name of your default view
     path('admin/', admin.site.urls),
     path('api/', include('api.urls')),
+    #path('auth/', include('api.urls')),
+    path('auth/', include('social_django.urls', namespace='social')),
+    
 ]
+

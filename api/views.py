@@ -2,6 +2,9 @@ from rest_framework.response import Response
 from rest_framework.decorators import api_view
 from .models import Account, Transaction, EventType
 from .serializers import TransactionSerializer
+from django.http import HttpResponse
+
+
 
 @api_view(['GET'])
 def get_account_details(request, account_id):
